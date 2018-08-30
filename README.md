@@ -1,6 +1,6 @@
 # offloading gem5
 
-This demo uses the [dist-gem5](https://publish.illinois.edu/icsl-pdgem5/getting-started-with-dist-gem5/) and [RAPID](https://github.com/RapidProjectH2020/rapid-linux-DemoApp) and is an ongoing framework. While the benchmark envisions to support heterogeneous devices, this is the demonstration of the tasks offloading on generic Java applications in gem5
+This demo takes the [dist-gem5](https://publish.illinois.edu/icsl-pdgem5/getting-started-with-dist-gem5/) and [RAPID](https://github.com/RapidProjectH2020/rapid-linux-DemoApp) as a reference and is an ongoing framework. While the benchmark envisions to support heterogeneous devices, this is the demonstration of the tasks offloading on generic Java applications in gem5
 
 In this page I will guide you on how to:
 *How to use dist-gem5
