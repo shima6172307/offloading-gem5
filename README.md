@@ -8,6 +8,7 @@ How to use dist-gem5
 dist-gem5 has an [official website](https://publish.illinois.edu/icsl-pdgem5/getting-started-with-dist-gem5/). There are some tutorials and demo video to show how to use it. 
 
 There are possibly some problems as follow when using dist-gem5.
+
 #1. chroot#
 If you want to use the command 'chroot', you have to install qemu. the installation command is as follow:
 'apt-get install qemu qemu-user qemu-system qemu-user-static'
