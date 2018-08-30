@@ -16,7 +16,7 @@ There are possibly some problems as follow when using dist-gem5.
 
 If you want to use the command 'chroot', you have to install qemu. the installation command is as follow:
 ```bash
-'apt-get install qemu qemu-user qemu-system qemu-user-static'
+apt-get install qemu qemu-user qemu-system qemu-user-static
 ```
 ### 2. An usual debug error
 If there is the error as follow in the output file testsys.terminal, you should update the file Makefile in the disk image following the URL https://www.mail-archive.com/gem5-users@gem5.org/msg14957.html. However, there is a simple way that you can download the image in the latest version from http://www.gem5.org/dist/current/arm/, such as aarch-system-20180409.tar.xz.
